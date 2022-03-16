@@ -1,0 +1,17 @@
+Global.GlobalTag
+Global.Health
+Global.SystemTag
+Performance.ModifyIntervals
+Extension.Register
+Extension.Unregister
+Extension.Update
+ExternalStatsProvider.Register
+ExternalStatsProvider.Unregister
+ExternalStatsProvider.Update
+Global.Licenses
+VirtualMachine.GuestOperations.Execute
+VirtualMachine.GuestOperations.Modify
+VirtualMachine.GuestOperations.ModifyAliases
+VirtualMachine.GuestOperations.Query
+VirtualMachine.GuestOperations.QueryAliases
+StorageProfile.View
